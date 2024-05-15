@@ -1,4 +1,6 @@
 # Alex-Y-Assignment-3-Implementation-of-a-Binary-Heap-Min-Heap-
+#Lab Report: https://docs.google.com/document/d/1zjtLPcQy_5pC35w1r8QNRHncVbQC_9DhqsXLwN_Yefc/edit?usp=sharing
+
 public class MinHeap {
     private int[] heap;
     private int size;
